@@ -1,2 +1,2 @@
 # To-Do-List
-My study project on php 
+My study project on PHP
