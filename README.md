@@ -1,4 +1,6 @@
 # TO-DO list
-My study project on PHP
+📑:pencil2: My study project on PHP
+
+(only localhost)
 
 ![alt text](screenshots/todo.png "Example")
